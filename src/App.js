@@ -1,10 +1,20 @@
 import React from "react";
 import "./App.css";
+import Header from "./components/Header/Header";
 
 function App() {
   return (
     <div className="app">
-      <h1>Let's Build a LinkedIn Clone</h1>
+      {/* Header */}
+      <Header />
+
+      {/* App Body */}
+
+      {/* SideBar */}
+
+      {/* Feed */}
+
+      {/* Widgets */}
     </div>
   );
 }
